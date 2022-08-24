@@ -1,0 +1,15 @@
+                                             SOFTEX RECIFE  
+ 
+1. Pesquise sobre padrões de projeto e escolha um para apresentar e descrever o seu funcionamento. Além disso, explique quais as vantagens e desvantagens comparados a outros e mostre suas referências. 
+ 
+Resposta:  
+Decorator: o padrão decorator é uma maneira de envolver um pedaço de um código com outro.  
+ Ele adiciona suporte para classe e propriedade que podem ser usados para resolver problemas e outras versões futuras do Javascript também poderão adicionar suporte para outras áreas problemáticas do código.  
+Desvantagem:   
+Teremos inúmeras classes pequenas. 
+Vantagem:   
+Pode ser usado para “decorar” a funcionalidade de um objeto em tempo real.  
+ 
+ 
+ 
+
